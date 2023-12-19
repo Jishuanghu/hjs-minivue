@@ -1,0 +1,22 @@
+{
+  "name": "hjs-minivue",
+  "version": "1.0.0",
+  "description": "hjs-minivue",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jishuanghu/hjs-minivue.git"
+  },
+  "keywords": [
+    "minivue"
+  ],
+  "author": "hjs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jishuanghu/hjs-minivue/issues"
+  },
+  "homepage": "https://github.com/Jishuanghu/hjs-minivue#readme"
+}
